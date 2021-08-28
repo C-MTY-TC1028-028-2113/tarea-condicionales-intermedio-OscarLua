@@ -23,5 +23,7 @@ def main():
             x=-b/(2*a)
             print(x)
 
+#Resuelto
+
 if __name__ == '__main__':
     main()
